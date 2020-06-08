@@ -1,0 +1,30 @@
+{
+  "name": "custom-keyboard",
+  "version": "1.0.0",
+  "description": "Custom keyboard - based on react-native-custom-keyboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-custom-keyboard"
+  ],
+  "author": "fliip92",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+  },
+  "dependencies": {
+    "prop-types": "^15.6.2"
+  },
+  "bugs": {
+    "url": "https://github.com/fliip92/custom-keyboard/issues"
+  },
+  "homepage": "https://github.com/fliip92/custom-keyboard",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fliip92/custom-keyboard"
+  },
+  "nativePackage": true
+}
